@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tvanh4
 - 👀 I’m interested in manga, languages and coding 
-- 🌱 I’m currently learning Spanish and Cucumber
+- 🌱 I’m currently learning Spanish (&) Cucumber
 - 💞️ I’m looking to collaborate on awesome projects
 - 📫 How to reach me ... You'll have to find me!
 
